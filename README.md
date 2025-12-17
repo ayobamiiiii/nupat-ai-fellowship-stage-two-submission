@@ -1,6 +1,6 @@
 # NUPAT AI Fellowship – Stage Two Case Study
 
-This repository contains a single Jupyter Notebook submitted as part of the
+This repository contains a Jupyter Notebook submitted as part of the
 NUPAT AI Fellowship Stage Two assessment.
 
 ## Contents
@@ -23,3 +23,4 @@ All required data files are included in the repository.
 - Python (Pandas, NumPy)
 - Matplotlib, Seaborn
 - Scikit-learn
+
